@@ -1,0 +1,41 @@
+h1 {
+	background: red;
+	border: 3px dotted black;
+	padding: 15px 5px 0;
+	text-align: center;
+}
+
+p {
+	background: blue;
+	color: white;
+	padding: 23px 10px 6px 10px;
+}
+
+code {
+	background: white;
+	color: black;
+	padding: 3px 5px;
+	border: 1px solid red;
+}
+
+h2 {
+	background: #66CDAA;
+	color: #4B0082;
+	padding: 2px 2px;
+	border: 6px solid #4169E1;
+}
+
+ol {
+	background: #A0522D;
+	color: #00FF00;
+	padding: 2px 2px;
+	border: 3px solid #DA70D6;
+	margin: 10px 10px 1px 1px;
+}
+
+li {
+	background: #C0C0C0;
+	color: #E0FFFF;
+	margin: 5px 5px 1px 1px;
+}
+

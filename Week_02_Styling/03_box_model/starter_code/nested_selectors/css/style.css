@@ -1,0 +1,17 @@
+blockquote {
+	font-style: italic;
+
+}
+
+blockquote em {
+	font-style: normal;
+}
+
+.footer li {
+	list-style-type: square;
+	color: red;
+}
+
+li {
+	color: purple;
+}
