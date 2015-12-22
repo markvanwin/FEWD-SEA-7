@@ -1,0 +1,42 @@
+*{
+	box-sizing: border-box;
+}
+
+body {
+	width: 800px;
+	margin: 0 auto;
+}
+
+header,
+footer {
+	height: 100px;
+	clear: both;
+	margin: 10px 0;
+}
+
+.rightsidebar {
+	float: right;
+	display: block;
+	width: 150px;
+	height: 350px;
+	background-color: #CCC;
+	border: 1px solid #808080;
+}
+
+.section {
+	float: right;
+	width: 460px;
+	margin: 0 20px;
+	height: 350px;
+	background-color: #CCC;
+	border: 1px solid #808080;
+}
+
+.leftsidebar {
+	float: left;
+	display: block;
+	width: 150px;
+	height: 350px;
+	background-color: #CCC;
+	border: 1px solid #808080;
+}

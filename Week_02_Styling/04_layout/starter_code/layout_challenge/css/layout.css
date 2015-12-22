@@ -1,0 +1,28 @@
+*{
+	box-sizing: border-box;
+}
+
+body {
+	width: 800px;
+	margin: 0 auto;
+}
+
+header,
+footer {
+	height: 100px;
+	clear: both;
+	margin: 10px 0;
+}
+
+sidebar {
+	float: right;
+	display: block;
+	width: 230px;
+	height: 350px;
+}
+
+section {
+	float: left;
+	width: 550px;
+	height: 350px;
+}

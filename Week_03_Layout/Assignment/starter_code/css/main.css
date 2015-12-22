@@ -1,0 +1,46 @@
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.main {
+	background: #f0efef;
+	height: 900px;
+}
+
+.feed {
+	float: left;
+	margin: 100px;
+}
+
+sidebar {
+	float: right;
+}
+
+h3 {
+	font-weight: 600;
+	font-size: 40px;
+	font-family: "Open Sans", sans-serif;
+	width: 700px;
+	margin: 0 0 20px 0;
+	color: #033048;
+}	
+
+p {
+	font-size:24px;
+	font-weight: 600;
+	color: #606161;
+}
+
+p::first-letter { 
+    font-size: 200%;
+    font-weight: 800;
+}
+
+.firstcharacter {
+	float: left;
+}

@@ -1,0 +1,115 @@
+*{
+	box-sizing: border-box;
+}
+
+body {
+	width: 800px;
+	margin: 0 auto;
+}
+
+header {
+	height: 100px;
+	width: 100%;
+	margin: 0 0 0 0;
+}
+
+footer {
+	height: 100px;
+	clear: both;
+	margin: 10px 0;
+}
+
+.leftheader {
+	float: left;
+	width: 200px;
+	height: 100px;
+	background-color: #CCC;
+	border: 1px solid #808080;
+}
+
+.nav {
+	float: right;
+	margin: 20px 0 0 0;
+}
+
+.smallheader {
+	float: left;
+	width: 100px;
+	height: 40px;
+	margin: 0 0 0 10px;
+	background-color: #CCC;
+	border: 1px solid #808080;
+}
+
+.left {
+	width: 125px;
+	height: 580px;
+}
+
+.main {
+	width: 650px;
+	height: 580px;
+	float: right;
+	margin: 20px 0 0 20px;
+}
+
+.row {
+	margin: 0 auto;
+	height: 250px;
+}
+
+.magmiddlesection {
+	float: left;
+	width: 480px;
+	height: 250px;
+	margin: 20px 0 0 0;
+	background-color: #CCC;
+	border: 1px solid #808080;
+}
+
+.magrightsidebar {
+	float: right;
+	display: block;
+	width: 150px;
+	height: 250px;
+	margin: 20px 0 0 0;
+	background-color: #CCC;
+	border: 1px solid #808080;
+}
+
+.magleftsidebar {
+	float: left;
+	display: block;
+	width: 125px;
+	height: 580px;
+	margin: 20px 0 0 0;
+	background-color: #CCC;
+	border: 1px solid #808080;
+}
+
+.row2 {
+	margin: 0 auto;
+	height: 150px;
+	padding: 0 0 200px 0;
+}
+
+.magsmallsection {
+	float: left;
+	margin: 10px 0 0 0;
+	width: 150px;
+	height: 200px;
+	background-color: #CCC;
+	border: 1px solid #808080;
+}
+
+.magsmallsection.second {
+	float: right;
+}
+
+.magsmallsection.third {
+	margin: 10px 10px;
+}
+
+.magsmallsection.fourth{
+	margin: 10px 10px;
+}
