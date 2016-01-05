@@ -1,0 +1,52 @@
+#box {
+  background: #f9e42e;
+  height: 80px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+#box button {
+  background: #033048;
+  border: none;
+  border-radius: 5px;
+  font-weight: bolder;
+  font-size: 12px;
+  padding: 15px 50px;
+  width: 250px;
+  margin: 15px auto;
+}
+
+.ctablue {
+  color: #FFF;
+}
+
+#box2 {
+  background: #121212;
+  padding: 0px 200px 0px 200px;
+  height: 250px;
+  color: white;
+  font-weight: bold;
+}
+
+#box2 h2 {
+  color: #f9e42e;
+  text-align: center;
+  padding: 75px 0 40px 0;
+  font-size: 34px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+}
+
+footer {
+color: #FFF;
+text-align: center;
+font-weight: lighter;
+}
+
+#box2 .center a {
+  width: 25px;
+  display: inline-block;
+  margin: auto 5px;
+}
+

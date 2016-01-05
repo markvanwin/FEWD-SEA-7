@@ -69,7 +69,6 @@ padding: 0px 75px 200px;
 }
 
 .container button {
-  text-align: center;
   background: #f9e42e;
   border: none;
   border-radius: 5px;
@@ -83,7 +82,7 @@ padding: 0px 75px 200px;
   right: 520px;
   bottom: 200px;
   width: 20px 100px 0 0;
-  margin: 0 100px 0 0;
+  margin: 0 auto;
 }
 
 .benefits {
@@ -167,34 +166,31 @@ p {
 
 #box {
   background: #f9e42e;
-  padding: 0px 200px 0px 200px;
-  width: 1425px;
   height: 80px;
   color: white;
   font-weight: bold;
+  padding: 0 auto;
+  text-align: center;
 }
 
 #box button {
-  text-align: center;
   background: #033048;
   border: none;
   border-radius: 5px;
   font-weight: bolder;
   font-size: 12px;
   padding: 15px 50px;
+  width: 250px;
+  margin: 15px auto;
 }
 
 .ctablue {
-  position: absolute;
   color: #FFF;
-  right: 615px;
-  top: 1760px;
 }
 
 #box2 {
   background: #121212;
   padding: 0px 200px 0px 200px;
-  width: 1425px;
   height: 350px;
   color: white;
   font-weight: bold;
@@ -219,4 +215,3 @@ font-weight: lighter;
   display: inline-block;
   margin: 0 auto;
 }
-
