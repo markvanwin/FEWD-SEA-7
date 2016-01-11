@@ -1,0 +1,31 @@
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.headline {
+	text-align: center;
+	font-family: "Source Sans Pro";
+	background: #D3D3D3;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 44px;
+}
+
+h2 {
+	padding: 35px;
+}
+
+#grayfont {
+	color: gray;
+	text-decoration: line-through;
+}
+
+#yellowline {
+	text-decoration: underline;
+	text-decoration-color: #FFFF00;
+}

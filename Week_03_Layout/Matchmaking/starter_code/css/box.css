@@ -1,0 +1,69 @@
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.create {
+	float: left;
+	width: 33%;
+	height: 250px;
+	background: white;
+	border-right: 1px solid gray;
+	margin-top: 20px;
+}
+
+.create h1 {
+	color: black;
+	margin-left: 30px;
+	margin-top: 25px;
+}
+
+.create p {
+	color: black;
+	font-size: 32px;
+}
+
+.finddev {
+	float: left;
+	width: 33%;
+	height: 275px;
+	background: white;
+	border-right: 1px solid gray;
+	margin-top: 15px;
+}
+
+.finddev h1 {
+	color: black;
+	margin-left: 60px;
+	margin-top: 25px;
+}
+
+.finddes {
+	float: left;
+	width: 33%;
+	height: 300px;
+	background: white;
+}
+
+.finddes h1 {
+	color: black;
+	margin-left: 80px;
+	margin-top: 40px;
+}
+
+.ProfileButton {
+	width: 250px;
+	height: 30px;
+	border: none;
+	border-radius: 5px;
+	text-align: center;
+	font-size: 20px;
+	background: #D3D3D3;
+	padding: 20px 0 0 0;
+	margin: 15px 0 0 65px;
+	font-weight: bold;
+}
