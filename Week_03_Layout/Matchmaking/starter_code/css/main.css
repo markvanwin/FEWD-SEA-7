@@ -16,8 +16,8 @@
 
 #sidebar {
 	float: right;
-	width: 400px;
-	height: 460px;
+	width: 365px;
+	height: 300px;
 	border: 2px solid black;
 	background-color: rgba(255,255,255,0.65);
 	margin: 20px 25px 0 0;
@@ -28,15 +28,15 @@
 	font-family: "Source Sans Pro";
 	margin: 20px 10px 10px 0;
 	color: black;
-	font-size: 42px;
+	font-size: 22px;
 }
 
 p {
 	text-align: left;
 	font-family: "Source Sans Pro";
-	margin: 20px 10px 0 30px;
+	margin: 20px 10px 20px 30px;
 	color: black;
-	font-size: 32px;
+	font-size: 22px;
 }
 
 #sidebar .button {
@@ -47,7 +47,8 @@ p {
 	text-align: center;
 	font-size: 28px;
 	background: #FFFF00;
-	padding: 20px 0 0 0;
-	margin: 25px 0 0 50px;
+	margin: 0 auto;
 	font-weight: bold;
+	font-size: 22px;
+	padding-top: 25px;
 }

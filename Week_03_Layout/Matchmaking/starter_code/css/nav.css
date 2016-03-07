@@ -12,10 +12,15 @@ header {
 	 border-bottom: 5px solid yellow;
 }
 
+.wrap {
+	float: right;
+	width: 100%;
+}
+
 h1 {
 	font-weight: 800;
 	font-size: 36px;
-	margin: 40px 100px 0 100px;
+	margin: 40px 100px 0 50px;
 	font-family: "Source Sans Pro";
 	color: yellow;
 	float: left;
@@ -26,7 +31,7 @@ nav {
 	color: white;
 	float: right;
 	margin: 30px 50px 20px 0;
-	letter-spacing: -1px
+	letter-spacing: -1px;
 }
 
 ul {
@@ -38,10 +43,16 @@ li {
 	display: inline;
 	font-family: "Source Sans Pro";
 	font-size: 14px;
+	color: white;
 }
 
 .large {
  	font-weight: bold;
  	font-size: 18px;
+ }
+
+ a {
+ 	text-decoration: none;
+ 	color: white;
  }
 
